@@ -16,6 +16,6 @@ Nice to meet you. I'm Candlest. A high school student from Guangdong, China.
 
 - I like things small, cute, simple but efficient.
 - I use LINUX for 6 years as my develop environment, If possible.
-- I am interesting in **Artificial Intelligence** , **Computer Graphics**, **IC Design**, **Operating System** and **Compiler**.
+- I am interested in **Artificial Intelligence** , **Computer Graphics**, **IC Design**, **Operating System** and **Compiler**.
 - I didn't pay much attention to art and physical education since I was a child, but I want to feel the beauty of them in the days to come.
 - I like to read, think and write, and try to make myself more capable and self-cultivated enough to balance myself and care for others.
