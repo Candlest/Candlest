@@ -1,13 +1,14 @@
-# Hello👋
+<h1 align="center"><i>there is no end to life, no end to learning.</i></h1>
 
-Nice to meet you. I'm Candlest. A high school student from Guangdong, China.
+##### 👋 Nice to meet you
 
-#### Tech Stack
+I'm **Candlest**, a senior high school student from Guangdong, China.
 
->  I **NEVER** really mastered **any of them**. In other words, *there is no end to life, no end to learning*.
+##### 🥺 As a **NEWBIE**
 
-- Can use: 
-  - ![C](https://img.shields.io/badge/-Rust-critical) ![Rust](https://img.shields.io/badge/-C/C++-green) ![C#](https://img.shields.io/badge/-C%23-green) ![PASCAL](https://img.shields.io/badge/-PASCAL-blue) ![Python](https://img.shields.io/badge/-Python-blue)
-  - ![Qt](https://img.shields.io/badge/-Qt-brightgreen) ![MFC](https://img.shields.io/badge/-MFC-black)
+ I am looking forward to **learning about tech and philosophy and making some contributions for open source**.
 
-- Intend to learn:  ![Lua](https://img.shields.io/badge/-Lua-green) ![Verilog](https://img.shields.io/badge/-Verilog-important) ![Valkan](https://img.shields.io/badge/-Valkan-red) ![OpenGL](https://img.shields.io/badge/-OpenGL-9cf) ![OpenCV](https://img.shields.io/badge/-OpenCV-lightgrey) ![Node.JS](https://img.shields.io/badge/-Node%2EJS-brightgreen) ![HTML/JS/CSS](https://img.shields.io/badge/-HTML%2FJS%2FCSS-brightgreen)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candlest&exclude_repo=arch-guide,candlest.github.io,candlest"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=candlest&show_icons=true&line_height=40"/>
+</div>
