@@ -10,7 +10,7 @@
 
 ##### 👋 Nice to meet you
 
-I'm **Candlest**, a freshman from Sun Yat-sen University majoring in **Preventive Medicine**, but hoping to change my major to **Engineering**!
+I'm **Candlest**, a freshman from Sun Yat-sen University majoring in ITS.
 
 ##### 🥺 As a **NEWBIE**
 
