@@ -17,6 +17,6 @@ I'm **Candlest**, a freshman from Sun Yat-sen University majoring in [ITS](https
 I am looking forward to **learning about tech and philosophy and making some contributions for open source**.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=javascript,html,asl&username=candlest&exclude_repo=arch-guide,candlest.github.io,candlest"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=candlest&show_icons=true&line_height=40"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=javascript,html,asl&username=candlest&exclude_repo=arch-guide,candlest.github.io,candlest&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=candlest&show_icons=true&line_height=40&theme=dark"/>
 </div>
