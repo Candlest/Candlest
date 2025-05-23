@@ -10,7 +10,7 @@
 
 ##### 👋 Nice to meet you
 
-I'm **Candlest**, a freshman from Sun Yat-sen University majoring in [ITS](https://en.wikipedia.org/wiki/Intelligent_transportation_system).
+I'm **Candlest**, a freshman from Sun Yat-sen University majoring in Cyberspace Security.
 
 ##### 🥺 As a **NEWBIE**
 
