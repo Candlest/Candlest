@@ -1,22 +1,53 @@
-<h1 align="center"><i>there is no end to life, no end to learning.</i></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=24&pause=1000&color=FFB7C5&repeat=false&width=435&lines=%E3%80%8C%E6%98%9F%E5%B1%91%E9%9B%86%E3%82%81%E3%81%A6+%E7%89%A9%E8%AA%9E%E7%B4%A1%E3%81%90%E3%80%8D" alt="Typing SVG" />
 
-<div align="center">
-  <img
-    width="256px"
-    alt="visitors"
-    src="https://count.getloli.com/get/@candlest"
-  />
-</div>
+<p>
+  <a href="https://blog.candlest.cc"><img src="https://img.shields.io/badge/Blog-candlest.cc-FFB7C5?style=flat-square&logo=Pelican&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/SYSU-Cyberspace%20Security-6A2162?style=flat-square&logo=curriculum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loc-GZ%20%2F%20SZ-A1C9F2?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-##### 👋 Nice to meet you
+<br/>
 
-I'm **Candlest**, a freshman from Sun Yat-sen University majoring in Cyberspace Security.
+### 🌸 Focus & Interests
 
-##### 🥺 As a **NEWBIE**
+` Security ` &nbsp; CTF basics · binary security (beginner)  
+` Systems  ` &nbsp; Linux · Docker · Kubernetes · telemetry  
+` Develop  ` &nbsp; Rust · Go · Vue.js · Modding (C# · JS)  
+` AI Tech  ` &nbsp; VLA · agent × kernel · data generation  
 
-I am looking forward to **learning about tech and philosophy and making some contributions for open source**.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,rust,go,vue,cs,js,py,pytorch&theme=light" height="22" />
+</p>
 
-<div align="center">
-    <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/top-langs/?hide=html,asl,css&username=candlest&exclude_repo=arch-guide,candlest.github.io,candlest"/>
-    <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api?username=candlest&show_icons=true&line_height=40"/>
-</div>
+<br/>
+
+### 🏗️ Background
+
+` Builder  ` &nbsp; 2013–2024 · Qt · WinForms · CEF · Linux  
+` Legacy   ` &nbsp; Pre-uni explorations · personal tools · GUI widgets  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,dotnet,qt,windows" height="22" />
+</p>
+
+<br/>
+
+### ✍️ Writing & Social
+
+` Writing  ` &nbsp; [Blog](https://blog.candlest.cc) · technical notes · reproducible quality  
+` Presence ` &nbsp; [Zhihu](https://www.zhihu.com/people/candlest) · [小红书](https://www.xiaohongshu.com/user/profile/62a4ea3d0000000021022482) · [Bilibili](https://space.bilibili.com/1736232402) · [Bangumi](https://bgm.tv/user/candlest)
+
+<br/>
+
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=candlest&show_icons=true&theme=transparent&title_color=FFB7C5&icon_color=FFB7C5&text_color=777&bg_color=0,00000000&hide_border=true&border_radius=10&ring_color=FFB7C5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candlest&layout=compact&theme=transparent&title_color=FFB7C5&text_color=777&bg_color=0,00000000&hide_border=true&border_radius=10&langs_count=8" width="48%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@candlest?theme=rule34" alt="visitors" />
+</p>
