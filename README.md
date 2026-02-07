@@ -42,8 +42,16 @@
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candlest&show_icons=true&theme=transparent&title_color=FFB7C5&icon_color=FFB7C5&text_color=777&bg_color=0,00000000&hide_border=true&border_radius=10&ring_color=FFB7C5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candlest&layout=compact&theme=transparent&title_color=FFB7C5&text_color=777&bg_color=0,00000000&hide_border=true&border_radius=10&langs_count=8" width="48%" />
+  <img src="./profile.svg" width="48%" />
+  <img src="./language.svg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./heatmap.svg" width="98%" />
+</p>
+
+<p align="center">
+  <img src="./timedist.svg" width="98%" />
 </p>
 
 <br/>
