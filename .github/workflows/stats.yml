@@ -14,6 +14,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GHT || github.token }}
+          cards: profile,language,heatmap,timedist
       - run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
