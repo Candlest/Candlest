@@ -21,5 +21,6 @@ jobs:
           git add *.svg
           if ! git diff --staged --quiet; then
             git commit -m 'Update stats'
+            git pull --rebase origin main
             git push
           fi
