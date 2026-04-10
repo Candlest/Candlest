@@ -16,6 +16,7 @@ ALL IN Embodied Intelligence， 空闲时间开发、打 CTF。
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,rust,go,vue,cs,js,py,pytorch,cpp,qt&theme=light" height="24" />
 </p>
+
 ## 其他平台
 
 - [Blog](https://blog.candlest.cc)
