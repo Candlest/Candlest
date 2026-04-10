@@ -1,52 +1,36 @@
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=24&pause=1000&color=FFB7C5&repeat=false&width=435&lines=%E3%80%8C%E6%98%9F%E5%B1%91%E9%9B%86%E3%82%81%E3%81%A6+%E7%89%A9%E8%AA%9E%E7%B4%A1%E3%81%90%E3%80%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=24&pause=1000&color=FFB7C5&repeat=false&width=460&lines=%E3%80%8C%E6%9C%89%E4%B8%80%E4%BB%BD%E5%85%89%EF%BC%8C%E5%8F%91%E4%B8%80%E4%BB%BD%E7%83%AD%E3%80%8D" alt="Typing SVG" />
 
 <p>
   <a href="https://blog.candlest.cc"><img src="https://img.shields.io/badge/Blog-candlest.cc-FFB7C5?style=flat-square&logo=Pelican&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/SYSU-Cyberspace%20Security-6A2162?style=flat-square&logo=curriculum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loc-GZ%20%2F%20SZ-A1C9F2?style=flat-square&logo=googlemaps&logoColor=white" />
+  <a href="https://blog.candlest.cc/about"><img src="https://img.shields.io/badge/About-Self::who__am__I-6A2162?style=flat-square&logo=readme&logoColor=white" /></a>
+  <a href="https://candlest.cc"><img src="https://img.shields.io/badge/Card-candlest.cc-A1C9F2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
+我是 Candlest，你也可以叫我水蜡烛。
 
-<br/>
+在中山大学网络空间安全专业大二就读，常驻广州 / 深圳。
 
-### 🌸 Focus & Interests
+ALL IN Embodied Intelligence， 空闲时间开发、打 CTF。
 
-` Security ` &nbsp; CTF basics · binary security (beginner)  
-` Systems  ` &nbsp; Linux · Docker · Kubernetes · telemetry  
-` Develop  ` &nbsp; Rust · Go · Vue.js · Modding (C# · JS)  
-` AI Tech  ` &nbsp; VLA · agent × kernel · data generation  
+
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,rust,go,vue,cs,js,py,pytorch&theme=light" height="22" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,rust,go,vue,cs,js,py,pytorch,cpp,qt&theme=light" height="24" />
 </p>
+## 其他平台
 
-<br/>
+- [Blog](https://blog.candlest.cc)
+- [数字名片](https://candlest.cc)
+- [SYSU-ReMajor](https://sysu-remajor.github.io)
+- [Zhihu](https://www.zhihu.com/people/candlest)
+- [Bilibili](https://space.bilibili.com/1736232402)
+- [Bangumi](https://bgm.tv/user/candlest)
 
-### 🏗️ Background
-
-` Builder  ` &nbsp; 2013–2024 · Qt · WinForms · CEF · Linux  
-` Legacy   ` &nbsp; Pre-uni explorations · personal tools · GUI widgets  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,dotnet,qt,windows" height="22" />
-</p>
-
-<br/>
-
-### ✍️ Writing & Social
-
-` Writing  ` &nbsp; [Blog](https://blog.candlest.cc) · technical notes · reproducible quality  
-` Presence ` &nbsp; [Zhihu](https://www.zhihu.com/people/candlest) · [小红书](https://www.xiaohongshu.com/user/profile/62a4ea3d0000000021022482) · [Bilibili](https://space.bilibili.com/1736232402) · [Bangumi](https://bgm.tv/user/candlest)
-
-<br/>
-
-### 📊 Activity
+## Activity
 
 <p align="center">
   <img src="./profile/grs-stats.svg" width="48%" />
   <img src="./profile/grs-top-langs.svg" width="48%" />
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@candlest?theme=rule34" alt="visitors" />
