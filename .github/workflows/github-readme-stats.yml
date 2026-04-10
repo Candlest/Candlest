@@ -30,7 +30,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,css
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=html,css,scss,c,asl,smt,llvm&exclude_repo=Candlest,candlest.github.io.old,ai-attack-prompt-lab,KEN-modify,Yilong15Pro-fix-keyboard,SYSU-SCST-Lab-Report-Template,typst-rednote,rigos-template
           path: profile/grs-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
