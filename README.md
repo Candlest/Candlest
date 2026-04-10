@@ -42,16 +42,8 @@
 ### 📊 Activity
 
 <p align="center">
-  <img src="./profile.svg" width="48%" />
-  <img src="./language.svg" width="48%" />
-</p>
-
-<p align="center">
-  <img src="./heatmap.svg" width="98%" />
-</p>
-
-<p align="center">
-  <img src="./timedist.svg" width="98%" />
+  <img src="./profile/grs-stats.svg" width="48%" />
+  <img src="./profile/grs-top-langs.svg" width="48%" />
 </p>
 
 <br/>
