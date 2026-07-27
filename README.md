@@ -4,16 +4,10 @@
   <a href="https://candlest.cc"><img src="https://img.shields.io/badge/Card-candlest.cc-A1C9F2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<h1 align="center">Hi, I'm Candlest <img src="https://raw.githubusercontent.com/Candlest/Candlest/main/profile/Water_Candle.webp" width="28" alt="🕯️" /></h1>
+<h1 align="center">Hi, I'm Candlest</h1>
 
 <p align="center">
   <b>胡嘉睿</b> · 水蜡烛 · SYSU CS 28 Fall
-</p>
-
-<p align="center">
-  <samp>
-    「所谓远大前程，就是一辈子做自己喜欢的事。」
-  </samp>
 </p>
 
 ---
@@ -70,7 +64,7 @@
 
 ### 🎮 Beyond Code
 
-- **CTF** — 中山大学 [W4terDr0p](https://github.com/W4terDr0p) 队员
+- **CTF** — 太菜了怕被前辈打 x
 - **ACGN** — [Bangumi](https://bangumi.tv/user/candlest) 用户，Terraria & Minecraft 玩家
 - **转专业经历** — 预防医学 → 智慧交通 → 网络空间安全，[SYSU-ReMajor](https://sysu-remajor.github.io/) 社群发起者
 
